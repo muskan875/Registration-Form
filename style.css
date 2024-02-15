@@ -1,0 +1,49 @@
+#body{
+    margin:20px;
+    background-color: black;
+    justify-content: center;
+        -webkit-text-size-adjust: 100%;
+        text-size-adjust: 100%;
+    
+    
+}
+
+#h1{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+#inputFile{
+    color: #fff;
+}
+label{
+    color:white;
+}
+
+.container{
+    border:2px solid white;
+    border-radius: 2%;
+    -webkit-border-radius: 2%;
+    -moz-border-radius: 2%;
+    -ms-border-radius: 2%;
+    -o-border-radius: 2%;
+    padding: 10px;
+}
+
+your-element {
+    text-align: match-parent;
+}
+
+#preview-container {
+    text-align: center;
+  }
+
+  #selected-image {
+    max-width: 40%;
+    max-height: 100px;
+    display: none; /* Hide initially */
+  }
+
+
+
